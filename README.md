@@ -4,10 +4,13 @@ Este projeto foi iniciado no curso técnico em programação web, com o desafio 
 ## funcionalidades
 Este site trata-se de pergunta, alternativas, o estudante seleciona uma alternativa e pode verificar a resposta, vendo se está correta ou incorreta, podendo escluir a resposta de refazer a questçao.
 ## tecnologias utilizadas
-VSCode
-Git
-GitHub
+- VSCode
+- Git
+- GitHub
+- html
+- css
+- javascript
 ## autores
-Ana Paula
-orientador [leonardo](https://github.com/LeonardoRochaMarista)
+- [Ana Paula](https://github.com/anapaulacd)
+- orientador [leonardo](https://github.com/LeonardoRochaMarista)
 
